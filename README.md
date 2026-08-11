@@ -26,6 +26,14 @@
 **[LLM & RAG Workshop — SUT](https://github.com/parinyad123/LLM-and-RAG-Workshop-SUT)** — Open-source teaching material
 > 2-day hands-on workshop: transformer internals → full RAG pipelines (FAISS, Top-K vs. MMR retrieval, prompt engineering, Gradio deployment). Materials MIT + CC BY-NC-SA.
 
+**[GHG Emissions Analysis](https://github.com/parinyad123/ghg-emissions-analysis)** — Data Analysis & BI Dashboard
+> CO2 emissions vs GDP for the world's largest emitters, on the Our World in Data dataset (48,058 rows).
+> - Raw CSV normalised into **PostgreSQL** (star schema) and queried back via SQLAlchemy.
+> - Per-country imputation, aggregate filtering via join, and 20-year mean ranking — 189 countries, 1981–2022.
+> - Finding: **US emissions decoupled from GDP after 2008**; China's did not, at one-fifth the GDP per capita.
+>
+> `PostgreSQL` · `pandas` · `NumPy` · `Looker Studio` · `matplotlib`
+
 ---
 
 ### 🛠️ Tech Stack
