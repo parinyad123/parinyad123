@@ -58,6 +58,7 @@
 **LLM / Agents** &nbsp; LangChain · LangGraph · LangSmith · RAG · Groq · Gemini · OpenAI
 **Backend** &nbsp; Python · FastAPI · Go (Gin) · PostgreSQL · SQLAlchemy
 **Frontend** &nbsp; TypeScript · Next.js · React · Angular (NgRx) · Vue 2
+**Mobile** &nbsp; Flutter (Dart, BLoC)
 **ML / Data** &nbsp; PyTorch · TensorFlow/Keras · scikit-learn · XGBoost · pandas · NumPy · SciPy · OpenCV
 **Infra** &nbsp; Docker · Nginx · AWS (EC2) · Google Cloud Run · Vercel
 
